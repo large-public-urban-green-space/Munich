@@ -1,5 +1,5 @@
 # Munich
-Munich - 2025 Projection - Public Urban Green Space Accessibility Web Map
+Munich, Germany - Large Public Urban Green Space (LPUGS) Accessibility Web Map
 
 Please use the following URL to access the web map:
-https://public-urban-green-space.github.io/Munich
+https://large-public-urban-green-space.github.io/Munich
